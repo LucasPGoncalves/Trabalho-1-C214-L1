@@ -3,7 +3,7 @@
 ## Integrantes do grupo:
    Guilherme Tomazoli de Carvalho,
    Lucas Pereira Gonçalves,
-   Willy Paim Ribeiro de Paula,
+   Willy Paim Ribeiro de Paula
 
 ## Funcionamento:
 O Trabalho é um programa interativo onde o usuário pode estar criando Tarefas de sua preferêcia, alterar o status, remover e mostrar.
