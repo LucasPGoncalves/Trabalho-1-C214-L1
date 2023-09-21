@@ -1,9 +1,9 @@
 # Trabalho-1-C214-L1
 
 ## Integrantes do grupo:
-   Guilherme Tomazoli de Carvalho
-   Lucas Pereira Gonçalves
-   Willy Paim Ribeiro de Paula 
+   Guilherme Tomazoli de Carvalho,
+   Lucas Pereira Gonçalves,
+   Willy Paim Ribeiro de Paula,
 
 ## Funcionamento:
 O Trabalho é um programa interativo onde o usuário pode estar criando Tarefas de sua preferêcia, alterar o status, remover e mostrar.
@@ -25,3 +25,6 @@ Se o usuário digitar uma opção que não esteja no Menu do programa, o usuári
 ## Executando os testes:
 
     npm test
+
+## Link do video:
+    https://drive.google.com/file/d/1DFNsHXca7uFuv-6DchvPc1-zYvNNJxU5/view?usp=sharing
